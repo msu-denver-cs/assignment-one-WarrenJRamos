@@ -1,0 +1,13 @@
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+C:/Ruby25-x64/bin/ruby.exe -r ./siteconf20190918-6212-18pi0sy.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install

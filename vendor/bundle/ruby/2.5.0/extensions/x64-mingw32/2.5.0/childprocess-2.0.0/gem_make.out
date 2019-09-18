@@ -1,0 +1,8 @@
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/childprocess-2.0.0/ext
+C:/Ruby25-x64/bin/ruby.exe mkrf_conf.rb
+
+current directory: C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/childprocess-2.0.0/ext
+C:/Ruby25-x64/bin/ruby.exe -rrubygems C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/gems/rake-12.3.3/exe/rake RUBYARCHDIR="C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/extensions/x64-mingw32/2.5.0/childprocess-2.0.0" RUBYLIBDIR="C:/Users/wjnra/Documents/Web Application Development/assignment-one-WarrenJRamos/assignment-one-WarrenJRamos/vendor/bundle/ruby/2.5.0/extensions/x64-mingw32/2.5.0/childprocess-2.0.0"
+C:/Ruby25-x64/bin/ruby.exe: No such file or directory -- C:/Users/wjnra/Documents/Web (LoadError)
+
+rake failed, exit code 1
